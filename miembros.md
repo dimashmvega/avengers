@@ -24,3 +24,4 @@
 22. Deadshot
 23. Scarecrow
 24. Nick Fury
+25. Capitan Marvel
